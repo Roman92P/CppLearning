@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1687989387 source:c:\users\roman\onedrive\documents\cpplearn\codeblockside\learningcpp\cpplearning\learncpp1\secondfile.cpp
+
+1687991600 source:c:\users\roman\onedrive\documents\cpplearn\codeblockside\learningcpp\cpplearning\learncpp1\main.cpp
+	<iostream>
+
+1687991818 source:c:\users\roman\onedrive\documents\cpplearn\codeblockside\learningcpp\cpplearning\learncpp1\tasktosplitfilesecond.cpp
+	<iostream>
+
